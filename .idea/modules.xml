@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fibo/Fibo.iml" filepath="$PROJECT_DIR$/Fibo/Fibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swings/Swings.iml" filepath="$PROJECT_DIR$/Swings/Swings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swings.iml" filepath="$PROJECT_DIR$/.idea/swings.iml" />
+    </modules>
+  </component>
+</project>
